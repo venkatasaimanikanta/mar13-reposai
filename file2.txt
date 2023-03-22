@@ -1,2 +1,7 @@
 Hi this is file2.txt
 Hi Amma!
+Hi Nana!
+
+Hi Roopa Akka!
+
+Hi Alekhya Akka!
